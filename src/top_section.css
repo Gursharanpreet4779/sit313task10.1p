@@ -1,0 +1,11 @@
+.Topsection p {
+    color: rgb(249, 249, 249);
+    font-weight: 20px;
+    font-size: 40px;
+}
+
+.Topsection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
